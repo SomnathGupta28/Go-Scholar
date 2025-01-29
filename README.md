@@ -1,1 +1,1 @@
-# Go-Scholar
+# Scholarhip
